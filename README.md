@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riddhi Mandal</h1>
+<h1 align="center">Hi, I'm Riddhi Mandal</h1>
 
 <p>
             🔭 I’m currently working on Tensorflow<br>
