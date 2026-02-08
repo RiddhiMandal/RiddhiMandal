@@ -65,6 +65,3 @@
 
 <br>
 
-<p align="center">
-  <em>Toronto, ON | Open to AI/ML collaborations and opportunities 🚀</em>
-</p>
