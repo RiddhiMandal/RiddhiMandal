@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riddhi Mandal</h1>
 
 <p align="center">
-  <strong>Results-driven AI researcher and Master's student in Professional Studies in Informatics (Analytics) with hands-on experience in developing predictive models, computer vision systems, and accessible AI solutions. Skilled in analyzing complex time-series and image datasets using Python (Pandas, NumPy), building and validating deep learning architectures (Transformers, CNN-LSTM, ResNet), and translating technical insights into actionable outcomes for multidisciplinary teams. Proven contributor to real-world challenges in healthcare accessibility and motion analysis, with a filed patent in AI-based diagnostic tools and published research impact.</strong>
+  <strong>Results-driven AI researcher and Master's student in Professional Studies in Informatics (Analytics) with hands-on experience in developing predictive models, computer vision systems, and accessible AI solutions. Skilled in analyzing complex time-series and image datasets using Python (Pandas, NumPy), building and validating deep learning architectures (Transformers, CNN-LSTM, ResNet), and translating technical insights into actionable outcomes for multidisciplinary teams.</strong>
 </p>
 
 
