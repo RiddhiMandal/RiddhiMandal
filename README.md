@@ -11,35 +11,37 @@
 
 <br>
 
-<h3 align="center">Languages & Tools</h3>
+<h3 align="center">🛠️ Languages & Tools</h3>
+
+<div align="center">
+  <!-- Core + Data -->
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas"/>
+  <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy"/>
+  <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV"/>
+  &nbsp;&nbsp;&nbsp;
+  <!-- ML / DL -->
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn"/>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Viz + DB + Others -->
+  <img src="https://skillicons.dev/icons?i=tableau" width="48" height="48" alt="Tableau"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+</div>
 
 <p align="center">
-  <strong>Programming & Core Libraries</strong><br>
-  Python • Pandas • NumPy • OpenCV
+  <strong>Primary stack</strong>: Python • Deep Learning (TensorFlow, PyTorch) • Computer Vision (OpenCV) • Data Analysis (Pandas, NumPy) • Visualization (Tableau) • SQL
 </p>
 
 <p align="center">
-  <strong>Machine Learning & Deep Learning</strong><br>
-  TensorFlow • PyTorch • Keras • Scikit-learn
+  <em>Applied in research: time-series modeling, CNN / Transformer architectures, signal processing, medical image analysis, real-time inference</em>
 </p>
-
-<p align="center">
-  <strong>Data Visualization & Databases</strong><br>
-  Tableau • SQL (MySQL) • Matplotlib / Seaborn
-</p>
-
-<p align="center">
-  <strong>Other Tools & Technologies</strong><br>
-  Git • Jupyter Notebook • Linux • HTML • R
-</p>
-
-<p align="center">
-  <em>Regularly used in research projects: time-series analysis, computer vision, predictive modeling, image processing, and accessibility-focused AI applications</em>
-</p>
-
 
 <br>
-
+<br>
 <h3 align="center">LeetCode Stats</h3>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/RiddhiM18?ext=heatmap" alt="Riddhi's LeetCode Stats" width="500"/>
