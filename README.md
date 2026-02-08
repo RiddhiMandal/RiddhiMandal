@@ -39,9 +39,7 @@
   <img src="https://leetcard.jacoblin.cool/RiddhiM18?ext=heatmap" alt="Riddhi Mandal LeetCode Heatmap & Stats" width="620" style="max-width:100%;"/>
 </p>
 
-<p align="center">
-  <em>Consistent problem-solving to sharpen algorithmic thinking for real-world AI challenges</em>
-</p>
+
 
 <br>
 
