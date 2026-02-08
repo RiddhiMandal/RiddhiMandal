@@ -29,13 +29,7 @@
   <img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git"/>
 </div>
 
-<p align="center">
-  <strong>Primary stack</strong>: Python • Deep Learning (TensorFlow, PyTorch) • Computer Vision (OpenCV) • Data Analysis (Pandas, NumPy) • Visualization (Tableau) • SQL
-</p>
 
-<p align="center">
-  <em>Applied daily in research: Transformers & CNN-LSTM models, time-series forecasting, medical image pattern extraction, gait/motion analysis</em>
-</p>
 
 <br>
 
