@@ -11,41 +11,32 @@
 
 <br>
 
-## 🛠️ Languages & Tools
-
-### 🎯 Core Programming
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python&perline=7" alt="Python" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=jupyter&perline=7" alt="Jupyter" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git&perline=7" alt="Git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=sql&perline=7" alt="SQL" width="50" height="50"/>
-</div>
-
-### 🤖 Machine Learning & Deep Learning  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow&perline=6" alt="TensorFlow" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=pytorch&perline=6" alt="PyTorch" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=sklearn&perline=6" alt="Scikit-learn" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=keras&perline=6" alt="Keras" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=huggingface&perline=6" alt="Hugging Face" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=transformers&perline=6" alt="Transformers" width="50" height="50"/>
-</div>
-
-### 📊 Data Science & Computer Vision
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=numpy&perline=6" alt="NumPy" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=pandas&perline=6" alt="Pandas" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=opencv&perline=6" alt="OpenCV" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=scipy&perline=6" alt="SciPy" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=matplotlib&perline=6" alt="Matplotlib" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=tableau&perline=6" alt="Tableau" width="50" height="50"/>
-</div>
+<h3 align="center">Languages & Tools</h3>
 
 <p align="center">
-  <em><strong>Daily stack:</strong> Python for medical imaging (ResNet, CNN-LSTM, YOLO), time-series analysis (Transformers, signal processing), and accessible AI systems</em>
+  <strong>Programming & Core Libraries</strong><br>
+  Python • Pandas • NumPy • OpenCV
 </p>
 
-<br><br>
+<p align="center">
+  <strong>Machine Learning & Deep Learning</strong><br>
+  TensorFlow • PyTorch • Keras • Scikit-learn
+</p>
+
+<p align="center">
+  <strong>Data Visualization & Databases</strong><br>
+  Tableau • SQL (MySQL) • Matplotlib / Seaborn
+</p>
+
+<p align="center">
+  <strong>Other Tools & Technologies</strong><br>
+  Git • Jupyter Notebook • Linux • HTML • R
+</p>
+
+<p align="center">
+  <em>Regularly used in research projects: time-series analysis, computer vision, predictive modeling, image processing, and accessibility-focused AI applications</em>
+</p>
+
 
 <br>
 
