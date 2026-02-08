@@ -1,35 +1,32 @@
 <h1 align="center">Hi 👋, I'm Riddhi Mandal</h1>
 
 <p align="center">
-  Master's student in Professional Studies in Informatics (Analytics) at Northeastern University, Toronto.<br>
-  Passionate about AI, machine learning, deep learning, and creating accessible, real-world solutions.
+  Master's student in <strong>Professional Studies in Informatics (Analytics)</strong> at Northeastern University, Toronto.<br>
+  Passionate about <strong>AI</strong>, <strong>machine learning</strong>, <strong>deep learning</strong>, and building accessible, real-world intelligent systems.
 </p>
 
-<div align="center">
-  <em>Focused on building intelligent systems through research and practical applications.</em>
-</div>
 
 <br>
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h2 align="center">🛠️ Languages & Tools</h2>
 
 <div align="center">
-  <!-- Core + Data -->
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas"/>
-  <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy"/>
-  <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV"/>
-  &nbsp;&nbsp;&nbsp;
-  <!-- ML / DL -->
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/>
-  <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn"/>
-  &nbsp;&nbsp;&nbsp;
+  <!-- Core & Data -->
+  <img src="https://skillicons.dev/icons?i=python" width="52" height="52" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=pandas" width="52" height="52" alt="Pandas"/>
+  <img src="https://skillicons.dev/icons?i=numpy" width="52" height="52" alt="NumPy"/>
+  <img src="https://skillicons.dev/icons?i=jupyter" width="52" height="52" alt="Jupyter"/>
+  &nbsp;&nbsp;
+  <!-- ML / DL / CV -->
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="52" height="52" alt="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="52" height="52" alt="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=opencv" width="52" height="52" alt="OpenCV"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" width="52" height="52" alt="Scikit-learn"/>
+  &nbsp;&nbsp;
   <!-- Viz + DB + Others -->
-  <img src="https://skillicons.dev/icons?i=tableau" width="48" height="48" alt="Tableau"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL"/>
-  <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter"/>
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=tableau" width="52" height="52" alt="Tableau"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="52" height="52" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git"/>
 </div>
 
 <p align="center">
@@ -37,19 +34,25 @@
 </p>
 
 <p align="center">
-  <em>Applied in research: time-series modeling, CNN / Transformer architectures, signal processing, medical image analysis, real-time inference</em>
+  <em>Applied daily in research: Transformers & CNN-LSTM models, time-series forecasting, medical image pattern extraction, gait/motion analysis</em>
 </p>
 
 <br>
-<br>
-<h3 align="center">LeetCode Stats</h3>
+
+<h2 align="center">📊 LeetCode Stats</h2>
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/RiddhiM18?ext=heatmap" alt="Riddhi's LeetCode Stats" width="500"/>
+  <img src="https://leetcard.jacoblin.cool/RiddhiM18?ext=heatmap" alt="Riddhi Mandal LeetCode Heatmap & Stats" width="620" style="max-width:100%;"/>
+</p>
+
+<p align="center">
+  <em>Consistent problem-solving to sharpen algorithmic thinking for real-world AI challenges</em>
 </p>
 
 <br>
 
-<h3 align="center">Let's Connect</h3>
+<h2 align="center">Let's Connect</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/riddhi-mandal-a3646519a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -65,4 +68,3 @@
 </p>
 
 <br>
-
