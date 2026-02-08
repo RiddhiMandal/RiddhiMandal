@@ -11,33 +11,41 @@
 
 <br>
 
-<h3 align="center">Languages and Tools</h3>
+## 🛠️ Languages & Tools
+
+### 🎯 Core Programming
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python&perline=7" alt="Python" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=jupyter&perline=7" alt="Jupyter" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git&perline=7" alt="Git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=sql&perline=7" alt="SQL" width="50" height="50"/>
+</div>
+
+### 🤖 Machine Learning & Deep Learning  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow&perline=6" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=pytorch&perline=6" alt="PyTorch" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=sklearn&perline=6" alt="Scikit-learn" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=keras&perline=6" alt="Keras" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=huggingface&perline=6" alt="Hugging Face" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=transformers&perline=6" alt="Transformers" width="50" height="50"/>
+</div>
+
+### 📊 Data Science & Computer Vision
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=numpy&perline=6" alt="NumPy" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=pandas&perline=6" alt="Pandas" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=opencv&perline=6" alt="OpenCV" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=scipy&perline=6" alt="SciPy" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=matplotlib&perline=6" alt="Matplotlib" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tableau&perline=6" alt="Tableau" width="50" height="50"/>
+</div>
+
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="42" height="42"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="42" height="42"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="42" height="42"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="42" height="42"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="42" height="42"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="42" height="42"/>
-  </a>
+  <em><strong>Daily stack:</strong> Python for medical imaging (ResNet, CNN-LSTM, YOLO), time-series analysis (Transformers, signal processing), and accessible AI systems</em>
 </p>
+
+<br><br>
 
 <br>
 
